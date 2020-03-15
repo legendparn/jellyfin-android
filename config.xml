@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="org.jellyfin.mobile" version="0.9.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Jellyfin</name>
+    <name>Peevix</name>
     <description>
-    Jellyfin Mobile
+    Peevix Mobile
     </description>
     <author email="apps@jellyfin.org" href="http://jellyfin.media">
-    Jellyfin
+    Parn
     </author>
     <content src="index.html" />
     <access origin="*" />
